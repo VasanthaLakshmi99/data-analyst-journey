@@ -1,5 +1,4 @@
----->The Hospital Administrator wants to verify that the doctor master data has been successfully loaded into the database.
-Write a SQL query to display every column and every record from the doctors table.
+---->The Hospital Administrator wants to verify that the doctor master data has been successfully loaded into the database.Write a SQL query to display every column and every record from the doctors table.
 
 
 ---->The Reception Department is preparing a patient registration list.They only want:Patient ID,First Name,Last Name,Contact Number.
@@ -14,8 +13,7 @@ Write a SQL query to display every column and every record from the doctors tabl
 
 ---->The Insurance Department wants to review patient insurance information.Display only:Patient Name,Insurance Provider,Insurance Number
 
----->The CEO wants a Doctor Directory that will be shared with all departments.Display:Doctor ID,Full Name,Specialization,Hospital Branch
-Use meaningful column aliases.
+---->The CEO wants a Doctor Directory that will be shared with all departments.Display:Doctor ID,Full Name,Specialization,Hospital BranchUse meaningful column aliases.
 
 ---->Hospital Management wants a Patient Contact Report.The report should contain only the information required for contacting patients.
 
@@ -29,8 +27,7 @@ Use meaningful column aliases.
 
 ---->The hospital is redesigning its website.The Marketing Team needs doctor information.Display:Full Name,Specialization,Years of Experience,Email
 
----->You are asked to prepare a Patient Master Report for the Hospital Director.The report will be shared with senior management.
-Without using SELECT *, choose the most important columns and write the SQL query.After writing the query, explain why you selected those columns.
+---->You are asked to prepare a Patient Master Report for the Hospital Director.The report will be shared with senior management.Without using SELECT *, choose the most important columns and write the SQL query.After writing the query, explain why you selected those columns.
 
 ---->The hospital is opening a new branch.The Director wants a Doctor Master Report containing only business-relevant information.
 
