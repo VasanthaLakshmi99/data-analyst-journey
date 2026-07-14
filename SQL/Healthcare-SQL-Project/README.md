@@ -31,6 +31,3 @@ Practice SQL from beginner to interview level using a Healthcare Management data
 - [ ] Window Functions
 - [ ] Business Scenarios
 
-## Project Status
-
-🚀 Day 1 Started
