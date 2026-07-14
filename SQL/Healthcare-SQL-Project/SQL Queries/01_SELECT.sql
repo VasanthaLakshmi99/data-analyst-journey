@@ -1,9 +1,11 @@
 ---->The Hospital Administrator wants to verify that the doctor master data has been successfully loaded into the database.Write a SQL query to display every column and every record from the doctors table.
-
+SELECT * FROM  doctors;
 
 ---->The Reception Department is preparing a patient registration list.They only want:Patient ID,First Name,Last Name,Contact Number.
+SELECT  patient_id,first_name,last_name,contact_number FROM patients;
 
 ---->The Front Office Manager wants to print today's appointment schedule.For now, they only need to see:Appointment ID,Appointment Date,Appointment Time
+SELECT appointment_id,appointment_date,appointment_time FROM appointments;
 
 ---->The Finance Team wants a simple billing report.Display only:Bill ID,Amount,Payment Status
 
