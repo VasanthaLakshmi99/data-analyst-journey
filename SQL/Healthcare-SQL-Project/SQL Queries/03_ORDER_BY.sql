@@ -1,1 +1,20 @@
-
+--->The Medical Director wants to identify the most experienced doctors in the hospital.Sort the report so that the most experienced doctors appear first.
+--->The Reception Manager wants a patient list arranged alphabetically by first name.
+--->The Finance Team wants to know all unique payment methods used by patients.Display only the payment methods.
+--->The Hospital Administrator wants to review the first 10 appointments in the database.Display all appointment details.
+--->The Medical Department wants treatments arranged from the lowest cost to the highest cost.
+--->The Finance Director wants the Top 5 highest-value bills.
+--->The HR Department wants doctors sorted by:Hospital Branch (A–Z).Within each branch, doctors with the highest experience first.
+--->The Marketing Team wants a list of unique insurance providers, arranged alphabetically.
+--->The Operations Team wants to review the latest 15 appointments.
+--->The Finance Department wants pending bills, with the highest bill amount appearing first.
+--->The Hospital Director wants to identify the 20 oldest registered patients.
+--->The Medical Director wants Cardiologists, ordered by experience from highest to lowest
+--->The Chief Medical Officer wants the 10 most expensive treatments.
+--->The Reception Manager wants all Completed appointments, arranged from the most recent appointment to the oldest.
+--->The Finance Head wants bills where:Amount is greater than ₹10,000.Arrange the report from the highest amount to the lowest amount.
+--->The Hospital Administrator wants the first 10 female patients, arranged alphabetically by first name.
+--->The Finance Director wants the Top 3 pending bills with the highest amount.
+--->The HR Department wants all unique hospital branches, sorted alphabetically.
+--->The Operations Team wants Cancelled appointments, sorted from the latest appointment date to the oldest.
+--->The CEO wants a report showing the Top 5 most experienced doctors working in the Cardiology department.
